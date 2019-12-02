@@ -43,7 +43,9 @@ def naming_system
   # HoH all the way to Species!
   new_hash = {:sub_category => {
       :sub_category => {
-        
+        :sub_category => {
+          
+        }
       }
     }
     
