@@ -45,11 +45,6 @@ def naming_system
       :sub_category => {
         :sub_category => {
           :label => "Order"
-          :sub_category => {
-            :sub_category => {
-              :label => "Genus"
-            }
-          }
         }
       }
     }
