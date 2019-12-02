@@ -46,9 +46,5 @@ def naming_system
   new_hash
 end
 
-  new_hash = {}
-  new_hash = {:sub_category => PORTION_1}
-  aaa = new_hash[:sub_category][:label]
-  
+new_hash = naming_system
 p new_hash
-p aaa
