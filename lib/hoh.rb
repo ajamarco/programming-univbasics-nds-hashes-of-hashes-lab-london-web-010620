@@ -44,7 +44,7 @@ def naming_system
   new_hash = {:sub_category => {
       :sub_category => {
         :sub_category => {
-          
+          :label => "Order"
         }
       }
     }
